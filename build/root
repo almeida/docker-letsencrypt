@@ -1,0 +1,1 @@
+0	3	*	*	0	/usr/bin/letsencrypt-renewer > /dev/stdout 2> /dev/stderr
